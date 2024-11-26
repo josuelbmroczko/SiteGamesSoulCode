@@ -13,5 +13,5 @@ export const StyledSobre = styled.div`
 
   @media (max-width: 1000px) {
     height: 30vh;
-  }
+  } 
 `;
