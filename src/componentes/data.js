@@ -150,7 +150,7 @@ export const data = {
             texto:'ANALISTA E DESENVOLVIEDOR DE SISTEMAS ',
             email:'cesaraugustopachecoferreira@gmail.com',
             linkedin:'https://www.linkedin.com/in/capf01/',
-            git:'https://github.com/AlexCoelho-coder'
+            git:'https://github.com/capf01'
         },
         profissional10:{
             foto:'https://avatars.githubusercontent.com/u/101003199?v=4',
