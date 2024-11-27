@@ -169,6 +169,15 @@ export const data = {
             email:'lucasjsj2014@gmail.com',
             linkedin:'#',
             git:'https://github.com/Lukas-Creat'
+        },
+        profissional12:{
+            foto:'https://media.licdn.com/dms/image/v2/D5603AQGaefgCFYAzwA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712371167727?e=1738195200&v=beta&t=1ik76269feBkrqe4pMZ8gcvqEvF4ol9ZyvmvG7h3_n4',
+            nome:'Pedro Henrique Sousa ',
+            especialidade:'História, Designer, Programação, e Testes', 
+            texto:'Técnico em informática para Web, e Técnico em Informática',
+            email:'ph9084533@gmail.com',
+            linkedin:'https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+            git:'https://pedro.henrique.github'
         }
         
         
