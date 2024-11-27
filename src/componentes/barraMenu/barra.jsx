@@ -39,11 +39,9 @@ function Navbar() {
   return (
     <NavbarWrapper isSticky={isSticky}>
       <Menu>
-        <MenuItem active={activeSection === 'local'}><a href="#local" onClick={(e) => scrollToSection(e, 'local')}>Local</a></MenuItem>
-        <MenuItem active={activeSection === 'sobre'}><a href="#sobre" onClick={(e) => scrollToSection(e, 'sobre')}>Sobre</a></MenuItem>
-        <MenuItem active={activeSection === 'servicos'}><a href="#servicos" onClick={(e) => scrollToSection(e, 'servicos')}>Serviços</a></MenuItem>
-        <MenuItem active={activeSection === 'contato'}><a href="#contato" onClick={(e) => scrollToSection(e, 'contato')}>Entrar em contato</a></MenuItem>
-      </Menu>
+         <MenuItem  ><h1>SOULCODE GAMES</h1></MenuItem>
+
+       </Menu>
     </NavbarWrapper>
   );
 }

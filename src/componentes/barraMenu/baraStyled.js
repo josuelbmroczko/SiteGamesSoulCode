@@ -41,5 +41,13 @@ export const Menu = styled.div`
 `;
 
 export const MenuItem = styled.div`
-  cursor: pointer;
+   h1{
+     font-weight:bold;
+  font-size: 1rem;
+font-family:Georgia, 'Times New Roman', Times, serif;
+   }
+ 
+  @media (max-width: 470px) {
+    font-size: 1rem;
+  }
 `;

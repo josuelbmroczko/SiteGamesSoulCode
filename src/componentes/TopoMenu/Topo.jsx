@@ -56,7 +56,8 @@ export default function Topo() {
                 <button>IR PARA O GAME</button> 
                 </div>
                 <div>
-                  <h1>            <h1><img src={lata} alt="" /></h1>
+                  <h1> 
+                    <h1><img  src={lata} alt="" /></h1>
                   </h1>  
                     </div>   
              </StyledApresentacao>

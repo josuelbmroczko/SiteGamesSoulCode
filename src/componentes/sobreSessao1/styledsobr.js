@@ -2,16 +2,18 @@ import styled from "styled-components";
 
 export const StyledSobre = styled.div`
   position: relative;
-  display: block;
-  height: 100vh;
-  background-image: url(${(props) => props.bgImage}); /* Usando a imagem passada como propriedade */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  justify-content: center;
-  align-items: center;
+ 
+background-color: #DC0132;
+  
+   
+ img{
+    height: 100%;
+  width: 100vw;
+ 
+  object-fit: cover;
+ }
 
   @media (max-width: 1000px) {
-    height: 30vh;
+    height: 50vh;
   } 
 `;

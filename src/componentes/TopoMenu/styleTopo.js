@@ -51,7 +51,7 @@ export const StyledTopo = styled.div`
 export const StyledApresentacao = styled.div`
     text-align: center;
     display: flex;
-   padding: 5px;
+   
     
     justify-content: center;
     align-items: center;
@@ -59,7 +59,7 @@ export const StyledApresentacao = styled.div`
     background-color: #DC0132;
    width: 100vw;
    justify-content: space-around;
-
+   align-items: center;
     background-size: cover;
     position: relative;
     opacity: 0; /* Inicialmente torna o topo invisível */
@@ -83,11 +83,16 @@ export const StyledApresentacao = styled.div`
       
         z-index: 2;
         position: relative;
-        left: 10px;
+         align-items: center;
+         justify-content: center;
         font-family: "Cormorant", serif;
         font-weight: bolder;
         color: ${data.topoMenu.corTexto};
         transition: color 1s ease;
+
+        h1{
+            width: 188px;
+        }
     }
 
     p {
@@ -122,5 +127,5 @@ export const StyledApresentacao = styled.div`
         padding: 20px 10px; 
         gap: 30px;
     }
-   
-`;
+    
+   `;
