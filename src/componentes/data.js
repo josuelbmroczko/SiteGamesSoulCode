@@ -162,13 +162,13 @@ export const data = {
             git:'https://github.com/Detrion'
         },
         profissional11:{
-            foto:'https://avatars.githubusercontent.com/u/101003199?v=4',
+            foto:'https://avatars.githubusercontent.com/u/185834330?v=4',
             nome:'Lucas José',
             especialidade:'Level design ',
             texto:'Administração ',
             email:'lucasjsj2014@gmail.com',
             linkedin:'#',
-            git:'https://github.com/Lukas-Creat/desktop-tutorial/commits?author=Lukas-Creat'
+            git:'https://github.com/Lukas-Creat'
         }
         
         
