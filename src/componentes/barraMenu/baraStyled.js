@@ -36,7 +36,8 @@ export const Menu = styled.div`
   @media (max-width: 768px) {
     button {
       padding: 8px; /* Ajuste do padding do botão em telas menores */
-    }
+    } 
+    
   }
 `;
 
