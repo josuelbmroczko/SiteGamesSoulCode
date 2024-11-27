@@ -114,7 +114,6 @@ export const ModalStyled = styled.div`
         position: relative;
         top: 30px;
         list-style: none;
-        
       }
     }
     img{
@@ -125,6 +124,8 @@ export const ModalStyled = styled.div`
     padding-top: 20px;
     font-size: 20px;
     margin-left: 10px; /* Adiciona um espaçamento à esquerda dos textos */
+    text-align: start;
+
    }
 
    .textosModal {

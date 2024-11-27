@@ -10,9 +10,8 @@ import imagemYoutube from '../public/imagem/youtube.svg';
 
 import adv1foto from '../public/imagem/adv1.jpg'
 import adv2foto from '../public/imagem/adv2.jpg'
-import adv3foto from '../public/imagem/adv3.jpg'
-import adv4foto from '../public/imagem/adv4.jpg'
-
+ 
+import fotoJoaoVictor from '../componentes/fotosGamers/joaoVictor.jpg'
 
 
 import fotoadv from '../public/imagem/fotoAdvogada.jpg'
@@ -76,49 +75,29 @@ export const data = {
             nome:'Josuel B. Mroczko',
             especialidade:'Desenvolvedor',
             texto:'Cursando Engenharia de software desenvolvedor front-end',
-           // telefone:'9999999',
-            email:'emailemailemaio@email.com',
-            //facebook:'httmp',
-            youtube:'youtube.br',
-            linkedin:'linkdin',
-            instagran:'instagran'
+            email:'josuelbeserramroczko@outlook.com',
+            linkedin:'https://www.linkedin.com/in/josuel-mroczko-677b36183/',
+            git:'https://github.com/josuelbmroczko'
         },
         profissional2:{
-            foto:adv2foto,
-            nome:'Dr. Guilhermina Ramires',
-            especialidade:'Advogada',
-            texto:'Formada em Direito e Letras, com especialização em direito administrativo e constitucional. Experiência como Procuradora Municipal e na Companhia Paulista de Trens Metropolitanos. Presidente da Comissão do Advogado Público da OAB/SP.',
-            telefone:'9999999',
-            email:'emailemailemaio@email.com',
-            facebook:'httmp',
-            youtube:'youtube.br',
-            linkedin:'linkdin',
-            instagran:'instagran'
+            foto:'https://avatars.githubusercontent.com/u/102014411?v=4',
+            nome:'João Victor da Silva Amorim Vilela ',
+            especialidade:'Desenvolvedor',
+            texto:'Graduando em Engenharia da Computação na Universidade Federal Rural de Pernambuco',
+            email:'jvctr.0110@gmail.com',
+            linkedin:'https://www.linkedin.com/in/jvctr-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+            git:'https://github.com/Velky07'
         },
         profissional3:{
-            foto: adv3foto,
-            nome:'Dr. João Dark Santos',
-            especialidade:'Advogado ',
-            texto:'Formado em Direito, técnico em comércio de bens e serviços, com especialização em direito processual civil, direito do trabalho e perícia contábil. Experiência em diversas áreas do direito.',
-            telefone:'9999999',
-            email:'emailemailemaio@email.com',
-            facebook:'httmp',
-            youtube:'youtube.br',
-            linkedin:'linkdin',
-            instagran:'instagran'
-        },
-        profissional4:{
-            foto: adv4foto,
-            nome:'Dr. Carlos Daqmasco',
-            especialidade:'Advogado',
-            texto:'Formado em Direito, técnico em administração, com cursos em inventário, partilha, planejamento sucessório e prática forense em direito eleitoral. Experiência no Ministério do Trabalho e Emprego e na Procuradoria Fiscal do Município de Jundiaí.',
-            telefone:'9999999',
-            email:'emailemailemaio@email.com',
-            facebook:'httmp',
-            youtube:'youtube.br',
-            linkedin:'linkdin',
-            instagran:'instagran'
-        },
+            foto:'https://avatars.githubusercontent.com/u/143637150?v=4',
+            nome:'Flávia Reis de Almeida ',
+            especialidade:'Desenvolvedora Full Stack',
+            texto:'Estudante de Análise e Desenvolvimento de Sistemas ',
+            email:'flaviarster@gmail.com',
+            linkedin:'https://www.linkedin.com/in/flavia-reis-desenvolvedor-full-stack/',
+            git:'https://github.com/flaviare1s'
+        }
+        
     },
 
 
