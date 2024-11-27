@@ -119,7 +119,7 @@ export const data = {
         profissional6:{
             foto:'https://avatars.githubusercontent.com/u/185872836?v=4',
             nome:'Jessica da Silva Rodrigues',
-            especialidade:'Programação e Animação;Elaboração de GDD (Game Design Document).',
+            especialidade:'desenvolvedora ',
             texto:'Graduação em Relações Internacionais (em andamento – último semestre);Curso Técnico em Análise e Desenvolvimento de Sistemas (em andamento);Bootcamp de Desenvolvimento de Games.',
             email:'devjessicarodrigues@gmail.com',
             linkedin:'https://www.linkedin.com/in/devjessicarodrigues/',
@@ -142,7 +142,35 @@ export const data = {
             email:'coelhoalex13@yahoo.com.br',
             linkedin:'https://www.linkedin.com/in/alex-sandro-s-coelho/',
             git:'https://github.com/AlexCoelho-coder'
+        },
+        profissional9:{
+            foto:'https://avatars.githubusercontent.com/u/50644198?v=4',
+            nome:'César Augusto Pacheco Ferreira',
+            especialidade:'Programador, Artista, Design',
+            texto:'ANALISTA E DESENVOLVIEDOR DE SISTEMAS ',
+            email:'cesaraugustopachecoferreira@gmail.com',
+            linkedin:'https://www.linkedin.com/in/capf01/',
+            git:'https://github.com/AlexCoelho-coder'
+        },
+        profissional10:{
+            foto:'https://avatars.githubusercontent.com/u/101003199?v=4',
+            nome:'Kalil Nogueira Farias',
+            especialidade:'Game designer, artista 2d',
+            texto:'Dança (técnico), Jogos Digitais (graduação)',
+            email:'kalilnog@gmail.com',
+            linkedin:'https://www.linkedin.com/in/kalil-nogueira-farias-2b11791b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+            git:'https://github.com/Detrion'
+        },
+        profissional11:{
+            foto:'https://avatars.githubusercontent.com/u/101003199?v=4',
+            nome:'Lucas José',
+            especialidade:'Level design ',
+            texto:'Administração ',
+            email:'lucasjsj2014@gmail.com',
+            linkedin:'#',
+            git:'https://github.com/Lukas-Creat/desktop-tutorial/commits?author=Lukas-Creat'
         }
+        
         
         
     },
