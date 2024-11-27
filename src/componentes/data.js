@@ -96,6 +96,15 @@ export const data = {
             email:'flaviarster@gmail.com',
             linkedin:'https://www.linkedin.com/in/flavia-reis-desenvolvedor-full-stack/',
             git:'https://github.com/flaviare1s'
+        },
+        profissional4:{
+            foto:'https://avatars.githubusercontent.com/u/56443711?v=4',
+            nome:'Eliseu Costa Albano ',
+            especialidade:'Desenvolvedor de games/web',
+            texto:'SENAI/SENAC- digital college',
+            email:'Eliseualbano57@gmail.com',
+            linkedin:'https://www.linkedin.com/in/eliseu-costa-a84255314/?original_referer=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2F&originalSubdomain=br',
+            git:'https://github.com/eliseucostaalbano'
         }
         
     },
