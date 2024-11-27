@@ -51,7 +51,7 @@ export const StyleProficionais = styled.div`
   }
   .timeDescricao {
     position: relative;
-    top: -60px;
+    top: -65px;
     color: antiquewhite;
     background-color: rgba(0, 0, 0, 0.4);
   }

@@ -105,7 +105,45 @@ export const data = {
             email:'Eliseualbano57@gmail.com',
             linkedin:'https://www.linkedin.com/in/eliseu-costa-a84255314/?original_referer=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2F&originalSubdomain=br',
             git:'https://github.com/eliseucostaalbano'
+        },
+        profissional5:{
+            foto:'https://avatars.githubusercontent.com/u/46823465?v=4',
+            nome:'Huerlen Borges',
+            especialidade:'UI/UX Designer ou UI Artist',
+            texto:'Cientista da Computação',
+            email:'huerlenborges@gmail.com',
+            linkedin:'https://www.linkedin.com/in/huerlen-borges-40991a11a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
+            git:'https://github.com/huelenb'
         }
+        ,
+        profissional6:{
+            foto:'https://avatars.githubusercontent.com/u/185872836?v=4',
+            nome:'Jessica da Silva Rodrigues',
+            especialidade:'Programação e Animação;Elaboração de GDD (Game Design Document).',
+            texto:'Graduação em Relações Internacionais (em andamento – último semestre);Curso Técnico em Análise e Desenvolvimento de Sistemas (em andamento);Bootcamp de Desenvolvimento de Games.',
+            email:'devjessicarodrigues@gmail.com',
+            linkedin:'https://www.linkedin.com/in/devjessicarodrigues/',
+            git:'https://github.com/devjessicarodrigues'
+        },
+        profissional7:{
+            foto:'https://avatars.githubusercontent.com/u/175889488?v=4',
+            nome:'Felipe Gabriel Rodrigues Paes',
+            especialidade:'Artista/Programador/UI/Game QA/Sound Design/Game Design Document',
+            texto:'Tec. em Edificações - ETEHL - RJ Cursando Física(Bacharelado) - UFPEL - RS',
+            email:'felipegabrielrpaes@gmail.com',
+            linkedin:'www.linkedin.com/in/felipe-gabriel-rodrigues-paes-54506026b',
+            git:'https://github.com/NoukieCraft035'
+        },
+        profissional8:{
+            foto:'https://avatars.githubusercontent.com/u/186201519?v=4',
+            nome:'Alex Sandro de Souza Coelho',
+            especialidade:'Desenvolvedor',
+            texto:'Superior ',
+            email:'coelhoalex13@yahoo.com.br',
+            linkedin:'https://www.linkedin.com/in/alex-sandro-s-coelho/',
+            git:'https://github.com/AlexCoelho-coder'
+        }
+        
         
     },
 
