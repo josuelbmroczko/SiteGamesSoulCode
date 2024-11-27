@@ -131,7 +131,7 @@ export const data = {
             especialidade:'Artista/Programador/UI/Game QA/Sound Design/Game Design Document',
             texto:'Tec. em Edificações - ETEHL - RJ Cursando Física(Bacharelado) - UFPEL - RS',
             email:'felipegabrielrpaes@gmail.com',
-            linkedin:'www.linkedin.com/in/felipe-gabriel-rodrigues-paes-54506026b',
+            linkedin:'https://www.linkedin.com/in/felipe-gabriel-rodrigues-paes-54506026b/',
             git:'https://github.com/NoukieCraft035'
         },
         profissional8:{
