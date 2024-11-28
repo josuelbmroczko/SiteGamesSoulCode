@@ -178,6 +178,34 @@ export const data = {
             email:'ph9084533@gmail.com',
             linkedin:'https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
             git:'https://pedro.henrique.github'
+        },
+        profissional13:{
+            foto:'https://avatars.githubusercontent.com/u/147737263?v=4',
+            nome:'Lucas Romão',
+            especialidade:'Programador', 
+            texto:'Técnico em informática para Web, e Técnico em Informática',
+            email:'lucas.contatoromao@gmail.com',
+            linkedin:'https://www.linkedin.com/in/lucas-romão-707a6a335/',
+            git:'https://github.com/Lucasrs789'
+        },
+        profissional14:{
+            foto:'https://avatars.githubusercontent.com/u/141883087?v=4',
+            nome:'Layla Rafaelle Honorato Gomes da Fé',
+            especialidade:'Programador', 
+            texto:'Gestão da Tecnologia da Informação',
+            email:'laylafe82@gmail.com',
+            linkedin:'www.linkedin.com/in/laylafe',
+            git:'https://github.com/LaylaFe'
+        }
+        ,
+        profissional15:{
+            foto:'https://avatars.githubusercontent.com/u/65187394?v=4',
+            nome:'Felipe Gonçalves Rodrigues',
+            especialidade:'Sound Desing/ Developer', 
+            texto:'Desenvolvedor Front-end e Mobile',
+            email:'felipegr2000@gmail.com',
+            linkedin:'linkedin.com/in/felipe-gonçalves-377507318',
+            git:'https://github.com/Felipe-GR98'
         }
         
         
