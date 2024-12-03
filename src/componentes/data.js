@@ -81,7 +81,7 @@ export const data = {
         profissional1:{
             foto:adv1foto,
             nome:'Josuel B. Mroczko',
-            especialidade:'Desenvolvedor',
+            especialidade:'Desenvolvedor-Game Design-UX/UI',
             texto:'Cursando Engenharia de software desenvolvedor front-end',
             email:'josuelbeserramroczko@outlook.com',
             linkedin:'https://www.linkedin.com/in/josuel-mroczko-677b36183/',
@@ -90,7 +90,7 @@ export const data = {
         profissional2:{
             foto:'https://avatars.githubusercontent.com/u/102014411?v=4',
             nome:'João Victor da Silva Amorim Vilela ',
-            especialidade:'Desenvolvedor',
+            especialidade:'Game mechanics design e QA',
             texto:'Graduando em Engenharia da Computação na Universidade Federal Rural de Pernambuco',
             email:'jvctr.0110@gmail.com',
             linkedin:'https://www.linkedin.com/in/jvctr-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
@@ -215,7 +215,7 @@ export const data = {
             linkedin:'linkedin.com/in/felipe-gonçalves-377507318',
             git:'https://github.com/Felipe-GR98'
         },
-        profissional15:{
+        profissional16:{
             foto:'https://avatars.githubusercontent.com/u/159923764?v=4',
             nome:'Rayane Karolina de França Vieira',
             especialidade:'Game Design', 
@@ -223,6 +223,15 @@ export const data = {
             email:'rayanekarolina.v@gmail.com',
             linkedin:'https://www.linkedin.com/in/rayane-vieira-7285a313a',
             git:'https://github.com/rayanefkarolina'
+        },
+        profissional17:{
+            foto:'https://avatars.githubusercontent.com/u/69921468?v=4',
+            nome:'André Luiz Ramiro dos Santos',
+            especialidade:'Programação/Animação | QA Teste | UX/UI', 
+            texto:'Engenheiro de Software',
+            email:'andreramiroapp@gmail.com',
+            linkedin:'https://www.linkedin.com/in/andreramiro19/',
+            git:'https://github.com/andreramiro19'
         }
         
         
