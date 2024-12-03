@@ -206,6 +206,15 @@ export const data = {
             email:'felipegr2000@gmail.com',
             linkedin:'linkedin.com/in/felipe-gonçalves-377507318',
             git:'https://github.com/Felipe-GR98'
+        },
+        profissional15:{
+            foto:'https://avatars.githubusercontent.com/u/159923764?v=4',
+            nome:'Rayane Karolina de França Vieira',
+            especialidade:'Game Design', 
+            texto:'Análise e Desenvolvimento de Sistemas',
+            email:'rayanekarolina.v@gmail.com',
+            linkedin:'https://www.linkedin.com/in/rayane-vieira-7285a313a',
+            git:'https://github.com/rayanefkarolina'
         }
         
         
