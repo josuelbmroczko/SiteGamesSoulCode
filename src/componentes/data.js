@@ -72,7 +72,7 @@ export const data = {
         profissional01:{
             foto:"https://media.licdn.com/dms/image/v2/D4D03AQHwdIw8VYzv_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1730731207743?e=1738800000&v=beta&t=WsWki3pAImealWB9HFhcQThXn01BEx96eh0J84zq0OU",
             nome:'José Magalhães ',
-            especialidade:'Professor ',
+            especialidade:'Head de Games ',
             texto:'🎮Professor🎮 ',
             email:'joses.magalhaes@hotmail.com',
             linkedin:'https://www.linkedin.com/in/jos%C3%A9-magalh%C3%A3es-31a1a0176/',
